@@ -1,6 +1,7 @@
 # Bamazon
 
-Bamazon is  a simple node application that allows customers to purchase products. The app starts by asking the user if they would like to purchase products from Bamazon. They are initially prompted with the option to buy or exit the application. 
+Bamazon is  a simple node application that allows customers to purchase products. The app starts by asking the user if they would like to purchase products from Bamazon. They are initially prompted with the option to buy or exit the application.
+![Buy an Item](BuyItem.png)
 
 If the customer chooses to buy, a table appears with the current products available along with their price and the available stock. 
 
